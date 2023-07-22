@@ -1,4 +1,4 @@
-# 554_final_project
+# Gait Recognition
 Gait recongnition using Gaitset Network
 Make some improvement on the origianal code
 - Modified loss function
